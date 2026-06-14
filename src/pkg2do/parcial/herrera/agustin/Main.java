@@ -8,7 +8,7 @@ package pkg2do.parcial.herrera.agustin;
  *
  * @author Admin
  */
-public class ParcialHerreraAgustin {
+public class Main {
 
     /**
      * @param args the command line arguments
